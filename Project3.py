@@ -23,3 +23,5 @@ while Seconds!=0:
         print("Time Left -  0 : 0 : 0")
         print("Time is Up!!! ")
         break
+        
+        #the program is written on windows powered visual stduio code
